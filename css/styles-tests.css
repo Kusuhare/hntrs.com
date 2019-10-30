@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+#carouselExampleSlidesOnly {
+  width: 121px;
+  margin: 5% auto;
+}
+
+.animation-pics {
+  height: 149px;
+  width: 10%;
+}
